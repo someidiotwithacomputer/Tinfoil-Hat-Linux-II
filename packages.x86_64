@@ -88,7 +88,7 @@ tpm2-tools
 tpm2-tss
 usbguard
 usbutils
-vim
+fastfetch
 vpnc
 wireguard-tools
 wireless-regdb
@@ -96,3 +96,7 @@ wireless_tools
 wpa_supplicant
 xdg-utils
 xfsprogs
+gnupg
+paperkey
+nftables
+wipe
