@@ -35,7 +35,6 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
-grub
 hdparm
 hyperv
 intel-ucode
@@ -102,7 +101,6 @@ pcsclite
 ppp
 pptpclient
 pv
-qemu-guest-agent
 refind
 reflector
 rsync
@@ -128,7 +126,6 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
