@@ -1,21 +1,24 @@
 {
-  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
-    "type": "small",
-    "padding": { "top": 1 }
+    "type": "file",
+    "source": "/usr/share/thl2/ascii/tux.txt",
+    "color": {
+      "1": "black"
+    }
   },
   "display": {
-    "separator": " → "
+    "separator": ": "
   },
   "modules": [
     "title",
     "separator",
     "os",
+    "host",
     "kernel",
     "uptime",
     "packages",
     "shell",
-    "break",
-    "colors"
+    "cpu",
+    "memory",
   ]
 }
